@@ -1,9 +1,0 @@
-C:\Users\Ngoc Bich\Desktop\monhoc\lap trinh web\bai tap\Nhac_ASP\Nhac_ASP\Nhac_ASP\bin\Nhac_ASP.dll.config
-C:\Users\Ngoc Bich\Desktop\monhoc\lap trinh web\bai tap\Nhac_ASP\Nhac_ASP\Nhac_ASP\bin\Nhac_ASP.dll
-C:\Users\Ngoc Bich\Desktop\monhoc\lap trinh web\bai tap\Nhac_ASP\Nhac_ASP\Nhac_ASP\bin\Nhac_ASP.pdb
-C:\Users\Ngoc Bich\Desktop\monhoc\lap trinh web\bai tap\Nhac_ASP\Nhac_ASP\Nhac_ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Ngoc Bich\Desktop\monhoc\lap trinh web\bai tap\Nhac_ASP\Nhac_ASP\Nhac_ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Ngoc Bich\Desktop\monhoc\lap trinh web\bai tap\Nhac_ASP\Nhac_ASP\Nhac_ASP\obj\Debug\Nhac_ASP.csprojResolveAssemblyReference.cache
-C:\Users\Ngoc Bich\Desktop\monhoc\lap trinh web\bai tap\Nhac_ASP\Nhac_ASP\Nhac_ASP\obj\Debug\Nhac_ASP.csproj.CoreCompileInputs.cache
-C:\Users\Ngoc Bich\Desktop\monhoc\lap trinh web\bai tap\Nhac_ASP\Nhac_ASP\Nhac_ASP\obj\Debug\Nhac_ASP.dll
-C:\Users\Ngoc Bich\Desktop\monhoc\lap trinh web\bai tap\Nhac_ASP\Nhac_ASP\Nhac_ASP\obj\Debug\Nhac_ASP.pdb
