@@ -9,7 +9,15 @@ public class Hungry {
 			System.out.println("Eat Sandwich");
 		}
 		else {
+<<<<<<< HEAD
 			System.out.println("OK");
+=======
+			String drink = "Are you thirsty?";
+			if(drink.equals("yes")) {
+				System.out.println("Drink coffee");
+			}
+			else System.out.println("OK");
+>>>>>>> food-branch
 		}
 	}
 
