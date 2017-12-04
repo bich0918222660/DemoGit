@@ -12,6 +12,7 @@ public class Hungry {
 			if(drink.equals("yes")
 			{
 				System.out.println("Drink coffee");
+				System.out.println("Drink soda");
 			}
 		}
 	}
