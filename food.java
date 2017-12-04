@@ -6,6 +6,7 @@ public class Hungry {
 		{
 			System.out.println("Eat hambuger");
 			System.out.println("Eat fries");
+			System.out.println("Eat Potato chip");
 		}
 		System.out.println("Ok!");
 		
