@@ -18,6 +18,13 @@ public class Hungry {
 			System.out.println("OK!");
 		
 		}
+		else {
+			String drink = "Are you thirsty?";
+			System.out.println("Drink orange juice");
+			System.out.println("Drink milk");
+			System.out.println("Drink soda");
+		
+		}
 	
 	}
 
