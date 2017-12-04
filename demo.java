@@ -18,6 +18,7 @@ public class Hungry {
 			System.out.println("Drink orange juice");
 			System.out.println("Drink milk");
 			System.out.println("Drink soda");
+			System.out.println("Drink lemon juice");
 		
 		}
 	
