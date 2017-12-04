@@ -16,6 +16,7 @@ public class Hungry {
 		else {
 			String drink = "Are you thirsty?";
 			System.out.println("Drink orange juice");
+			System.out.println("Drink milk");
 		
 		}
 	
