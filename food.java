@@ -8,7 +8,14 @@ public class Hungry {
 			System.out.println("Eat KFC");
 			System.out.println("Eat sandwich");
 		}
-		System.out.println("Ok");
+		else {
+			String drink = "Are you thirsty?"
+			if(drink.equals("yes")
+			{
+				System.out.println("Drink coffee");
+				System.out.println("Drink soda");
+			}
+		}
 	}
 
 }
