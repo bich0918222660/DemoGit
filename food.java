@@ -6,6 +6,7 @@ public class Hungry {
 		{
 			System.out.println("Eat hambuger");
 			System.out.println("Eat KFC");
+			System.out.println("Eat Sandwich");
 		}
 		else {
 			System.out.println("OK");
