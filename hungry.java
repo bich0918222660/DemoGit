@@ -9,7 +9,12 @@ public class Hungry {
 			System.out.println("Eat Sandwich");
 		}
 		else {
-			System.out.println("OK");			
+			String drink = "Are you thirsty?"
+			if(drink.equals("yes")
+			{
+				System.out.println("Drink coffee");
+				System.out.println("Drink soda");
+			}		
 		}
 	}
 
